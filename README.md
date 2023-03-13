@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewlovesapple
-- 👀 I’m interested in swift programming
-- 🌱 I’m currently learning swift
+- 👀 I’m interested in Java programming
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
